@@ -12,6 +12,7 @@ A full-featured personal finance management desktop application built with **Pyt
 - [Project Structure](#project-structure)
 - [Screenshots](#screenshots)
 - [Modules Overview](#modules-overview)
+- All screenshots are in img folder
 
 ---
 
